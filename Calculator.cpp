@@ -29,7 +29,7 @@ int main() {
             }
             break;
         default:
-            cout << "Error: Invalid operator!" << endl;
+            cout << "Error: Invalid operator !" << endl;
     }
  
     return 0;
