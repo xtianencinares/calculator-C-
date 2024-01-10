@@ -31,7 +31,7 @@ int main() {
     } else {
         cout << "Invalid operator!";
         return 1;
-    }
+    } 
 
     switch (operation) {
         case '+':
