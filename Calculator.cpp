@@ -53,7 +53,7 @@ int main() {
         case '^':
             cout << "Result: " << power(num1, num2);
             break;
-        case 'sqrt':
+        case 'sqrt': 
             cout << "Result: " << squareRoot(num1);
             break;
         case 'sin':
