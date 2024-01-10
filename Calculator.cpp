@@ -88,7 +88,7 @@ double multiply(double a, double b) {
 
 double divide(double a, double b) {
     return a / b;
-}
+} 
 
 double power(double base, double exponent) {
     return pow(base, exponent);
