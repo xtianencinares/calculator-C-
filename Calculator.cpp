@@ -14,7 +14,7 @@ double sine(double angle);
 double cosine(double angle);
 double tangent(double angle);
 
-int main() {
+int main() { 
     char operation;
     double num1, num2;
 
