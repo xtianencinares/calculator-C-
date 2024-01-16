@@ -16,7 +16,7 @@ double tangent(double angle);
 
 int main() { 
     char operation;
-    double num1, num2;
+    double num1, num2; 
 
     cout << "Enter operator (+, -, *, /, ^, sqrt, sin, cos, tan): ";
     cin >> operation;
