@@ -20,7 +20,7 @@ int main() {
 
     cout << "Enter operator (+, -, *, /, ^, sqrt, sin, cos, tan): ";
     cin >> operation;
-
+//Main Function 
     if (operation == '+' || operation == '-' || operation == '*' || operation == '/' || operation == '^') {
         cout << "Enter two numbers: ";
         cin >> num1 >> num2;
